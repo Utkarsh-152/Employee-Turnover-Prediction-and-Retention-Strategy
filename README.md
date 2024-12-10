@@ -94,17 +94,12 @@ The dataset used for this project has been sourced from [Kaggle: HR Employee Att
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/Utkarsh-152/Employee-Turnover-Analytics.git
-   cd Employee-Turnover-Analytics
 
-2. **Install the required libraries: You can install all the required dependencies using the following command:**
-   ```bash
-    pip install -r requirements.txt
+2. **Open Jupyter Notebook**
 
-4. **Run the Python script:**
-   ```bash
-   python turnover_analysis.py
+3. **Execute all cells**
    
-This will execute all the steps mentioned above and generate relevant outputs including visualizations, model reports, and retention strategies.
+This will generate relevant outputs including visualizations, model reports, and retention strategies.
 
 ## Results & Inferences
 
